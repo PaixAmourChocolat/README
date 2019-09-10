@@ -10,4 +10,6 @@
 * apprendre commandes linux: <https://loic-guibert.developpez.com/tutoriels/git/get-started/>
 
 ## Autres
-* compiler en ligne: <https://www.tutorialspoint.com/codingground.htm>
+* compiler en ligne: <https://www.tutorialspoint.com/codingground.htm>, <https://www.tutorialspoint.com/compile_cpp11_online.php>
+* actualité et ressources diverses:  <https://www.tutorialspoint.com/compile_cpp11_online.php>
+* site ubuntu: <https://www.ubuntu-fr.org/>
